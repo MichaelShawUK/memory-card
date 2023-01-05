@@ -1,0 +1,16 @@
+@font-face {
+  font-family: sports;
+  src: url("../assets/font/sports.ttf");
+}
+
+.title {
+  font-family: sports;
+  font-size: 3rem;
+  text-align: center;
+  color: #fff;
+  background-color: #565656;
+  letter-spacing: 1rem;
+  margin: 0;
+  padding: 2rem 0;
+  text-shadow: 1px 1px black;
+}
