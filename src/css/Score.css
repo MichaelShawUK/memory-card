@@ -1,0 +1,18 @@
+#score {
+  text-align: center;
+  margin: 1rem;
+  display: flex;
+  justify-content: space-evenly;
+}
+
+.result {
+  font-size: 3rem;
+}
+
+#correct {
+  color: green;
+}
+
+#incorrect {
+  color: red;
+}

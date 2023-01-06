@@ -1,12 +1,10 @@
 footer {
   background-color: #24292f;
   text-align: center;
-  position: absolute;
-  bottom: 0;
   width: 100%;
 }
 
 #github-logo {
   height: 1.2rem;
-  margin: 0.25rem 0;
+  margin: 0.5rem 0 0.25rem 0;
 }

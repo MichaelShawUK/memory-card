@@ -1,3 +1,4 @@
+import { v4 as uuidv4 } from "uuid";
 import allison from "./assets/img/alisson.png";
 import benzema from "./assets/img/benzema.png";
 import casemiro from "./assets/img/casemiro.png";
@@ -20,26 +21,106 @@ import son from "./assets/img/son.png";
 import vandijk from "./assets/img/vandijk.png";
 
 const players = [
-  allison,
-  benzema,
-  casemiro,
-  courtois,
-  debruyne,
-  ederson,
-  kane,
-  kante,
-  kimmich,
-  lewandowski,
-  mane,
-  mbappe,
-  messi,
-  neuer,
-  neymar,
-  oblak,
-  ronaldo,
-  salah,
-  son,
-  vandijk,
+  {
+    id: uuidv4(),
+    name: "allison",
+    img: allison,
+  },
+  {
+    id: uuidv4(),
+    name: "benzema",
+    img: benzema,
+  },
+  {
+    id: uuidv4(),
+    name: "casemiro",
+    img: casemiro,
+  },
+  {
+    id: uuidv4(),
+    name: "courtois",
+    img: courtois,
+  },
+  {
+    id: uuidv4(),
+    name: "debruyne",
+    img: debruyne,
+  },
+  {
+    id: uuidv4(),
+    name: "ederson",
+    img: ederson,
+  },
+  {
+    id: uuidv4(),
+    name: "kane",
+    img: kane,
+  },
+  {
+    id: uuidv4(),
+    name: "kante",
+    img: kante,
+  },
+  {
+    id: uuidv4(),
+    name: "kimmich",
+    img: kimmich,
+  },
+  {
+    id: uuidv4(),
+    name: "lewandowski",
+    img: lewandowski,
+  },
+  {
+    id: uuidv4(),
+    name: "mane",
+    img: mane,
+  },
+  {
+    id: uuidv4(),
+    name: "mbappe",
+    img: mbappe,
+  },
+  {
+    id: uuidv4(),
+    name: "messi",
+    img: messi,
+  },
+  {
+    id: uuidv4(),
+    name: "neuer",
+    img: neuer,
+  },
+  {
+    id: uuidv4(),
+    name: "neymar",
+    img: neymar,
+  },
+  {
+    id: uuidv4(),
+    name: "oblak",
+    img: oblak,
+  },
+  {
+    id: uuidv4(),
+    name: "ronaldo",
+    img: ronaldo,
+  },
+  {
+    id: uuidv4(),
+    name: "salah",
+    img: salah,
+  },
+  {
+    id: uuidv4(),
+    name: "son",
+    img: son,
+  },
+  {
+    id: uuidv4(),
+    name: "vandijk",
+    img: vandijk,
+  },
 ];
 
 export default players;

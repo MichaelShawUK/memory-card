@@ -1,0 +1,14 @@
+@font-face {
+  font-family: vt;
+  src: url(../assets/font/vt.ttf);
+}
+
+body {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+  font-family: vt;
+  font-size: 2rem;
+  color: white;
+  background-image: url("../../src/assets/img/bg.webp");
+}

@@ -1,5 +1,5 @@
 import github from "../assets/img/github.png";
-import "../css/footer.css";
+import "../css/Footer.css";
 
 const Footer = () => {
   return (

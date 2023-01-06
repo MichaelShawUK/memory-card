@@ -1,10 +1,9 @@
-import "../css/header.css";
+import "../css/Header.css";
 
 const Header = () => {
   return (
     <header>
       <h1 className="title">FIFA CARDS</h1>
-      <hr></hr>
     </header>
   );
 };
