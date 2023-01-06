@@ -1,0 +1,36 @@
+{
+  "files": {
+    "main.css": "/memory-card/static/css/main.9069e31a.css",
+    "main.js": "/memory-card/static/js/main.68386013.js",
+    "static/media/bg.webp": "/memory-card/static/media/bg.cccc3e38b3a78fcf0231.webp",
+    "static/media/messi.png": "/memory-card/static/media/messi.fa8bf688349001f27d37.png",
+    "static/media/salah.png": "/memory-card/static/media/salah.7fb6ea75532724b3c999.png",
+    "static/media/alisson.png": "/memory-card/static/media/alisson.eb249304914db5443908.png",
+    "static/media/neuer.png": "/memory-card/static/media/neuer.22512b54e3592987a66d.png",
+    "static/media/courtois.png": "/memory-card/static/media/courtois.fb98eb03494fbbab5fb9.png",
+    "static/media/kane.png": "/memory-card/static/media/kane.0bf49948b8d7a537d393.png",
+    "static/media/benzema.png": "/memory-card/static/media/benzema.bf6a9f40089183bf2b4b.png",
+    "static/media/debruyne.png": "/memory-card/static/media/debruyne.d0896d270d4c49d53559.png",
+    "static/media/vandijk.png": "/memory-card/static/media/vandijk.fa830fd8d78d70acb140.png",
+    "static/media/ronaldo.png": "/memory-card/static/media/ronaldo.60658270245e0f74f736.png",
+    "static/media/mane.png": "/memory-card/static/media/mane.b077283871e97c4944eb.png",
+    "static/media/casemiro.png": "/memory-card/static/media/casemiro.9a1b003d54791f743d3a.png",
+    "static/media/lewandowski.png": "/memory-card/static/media/lewandowski.59a9a07e0798b8ec58f7.png",
+    "static/media/kante.png": "/memory-card/static/media/kante.affacd2cbe5e7743d3e7.png",
+    "static/media/kimmich.png": "/memory-card/static/media/kimmich.713af33a68d7a54f6d29.png",
+    "static/media/ederson.png": "/memory-card/static/media/ederson.ea5c4048a61668eed515.png",
+    "static/media/oblak.png": "/memory-card/static/media/oblak.0049cee02a6d29eb72ce.png",
+    "static/media/son.png": "/memory-card/static/media/son.290dbafabde78a57777f.png",
+    "static/media/neymar.png": "/memory-card/static/media/neymar.f85053a6a5465390cf32.png",
+    "static/media/mbappe.png": "/memory-card/static/media/mbappe.c02c3b4095f5a4d4d9ea.png",
+    "static/media/vt.ttf": "/memory-card/static/media/vt.2bc43ad8eb2f60b39f27.ttf",
+    "static/media/sports.ttf": "/memory-card/static/media/sports.595e2b7187612ec8af4c.ttf",
+    "index.html": "/memory-card/index.html",
+    "main.9069e31a.css.map": "/memory-card/static/css/main.9069e31a.css.map",
+    "main.68386013.js.map": "/memory-card/static/js/main.68386013.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.9069e31a.css",
+    "static/js/main.68386013.js"
+  ]
+}
